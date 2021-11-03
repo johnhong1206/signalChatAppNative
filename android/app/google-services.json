@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780452980594",
+    "project_id": "expo-signal",
+    "storage_bucket": "expo-signal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780452980594:android:55a91c72dbe35e00669feb",
+        "android_client_info": {
+          "package_name": "com.signal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780452980594-4gt6g353q4eao6h38um911q0tt245ps3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCVsqTr9THNX3uDdqDu9ceMbyNL9UBULA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780452980594-4gt6g353q4eao6h38um911q0tt245ps3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
